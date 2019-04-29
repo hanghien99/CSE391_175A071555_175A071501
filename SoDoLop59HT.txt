@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>So d? l?p 59HT</title>
+</head>
+<body>
+	<p> SO Ð? L?P 59HT </p>
+	<table border="1" cellpadding="2" cellspacing="2">
+		<thead>
+			<tr>
+				<th colspan="2"> Dãy 1 </th>
+				<th colspan="2"> Dãy 2 </th>
+				<th colspan="2"> Dãy 3 </th>
+				<th colspan="2"> Dãy 4 </th>
+				<th colspan="2"> Dãy 5 </th>
+				
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>
+				<a Title="Mã Sinh Viên">Hà Nguyên Anh</a> </td>
+	 			<td>
+				<a  Title="Mã Sinh Viên">Nguy?n Tu?n Anh</a></td>
+	 			<td>
+	 			<a  Title="Mã Sinh Viên">Phan Huy Anh</a></td>
+	 			<td>
+	 			<a  Title="Mã Sinh Viên">Tr?n Ti?n Anh</a></td>
+	 			<td>
+	 			<a  Title="Mã Sinh Viên">Hoàng Th? Ng?c Ánh</a></td>
+	 			<td>
+	 			<a  Title="Mã Sinh Viên"> Lê Vi?t Bách </a></td>
+	 			<td>
+	 			<a  Title="Mã Sinh Viên">Nguy?n Xuân Chi?n</a></td>
+	 			<td>
+	 			<a  Title="Mã Sinh Viên">Hoàng Ð?c Chính</a></td>
+	 			<td>
+	 			<a  Title="Mã Sinh Viên">Nguy?n Ð?c Dung</a></td>
+	 			<td>
+	 			<a  Title="Mã Sinh Viên">Vu Ðình Duy</a></td>
+ 			</tr>
+ 			<tr>
+	 			<td>
+	 			<a  Title="Mã Sinh Viên">Nguy?n Thành D?</a></td>
+	 			<td>
+	 			<a  Title="Mã Sinh Viên">Cù M?nh Ð?t</a></td>
+	 			<td>
+	 			<a  Title="Mã Sinh Viên">Ngô Doãn Ð?t</a></td>
+	 			<td>
+	 			<a  Title="Mã Sinh Viên">Ph?m Tru?ng Giang</a></td>
+	 			<td>
+	 			<a  Title="Mã Sinh Viên">Vu M?nh Tru?ng Giang</a></td>
+	 			<td>
+	 				<a  Title="Mã Sinh Viên">Tr?n L? H?ng</a></td>
+	 			<td>
+	 			<a  Title="Mã Sinh Viên">Nguy?n Thúy H?ng</a></td>
+	 			<td>
+	 			<a  Title="Mã Sinh Viên">Tr?n Th? Hiên</a></td>
+	 			<td>
+	 			<a  Title="Mã Sinh Viên">Tr?n Minh Hi?u</a></td>
+	 			<td>
+	 			<a  Title="Mã Sinh Viên">Nguy?n Th? Hu?</a></td>
+ 			</tr>
+ 			<tr>
+ 				<td>
+ 				<a  Title="Mã Sinh Viên">Nguy?n M?nh Hùng</a></td>
+ 				<td>
+ 				<a  Title="Mã Sinh Viên">Nguy?n Ð?c Huy</a></td>
+ 				<td>
+ 				<a  Title="Mã Sinh Viên">Nguy?n Phú Huy</a></td>
+ 				<td>
+ 				<a  Title="Mã Sinh Viên">Hà Qu?c Khánh</a></td>
+ 				<td>
+ 				<a  Title="Mã Sinh Viên">Ngô B?o Khôi</a></td>
+ 				<td>
+ 				<a  Title="Mã Sinh Viên">Luu Tùng Lâm</a></td>
+ 				<td>
+ 				<a  Title="Mã Sinh Viên">Vu Minh Lâm</a></td>
+ 				<td>
+ 				<a  Title="Mã Sinh Viên">Lê Tr?ng Linh</a></td>
+ 				<td>
+ 				<a  Title="Mã Sinh Viên">Tr?n Quang Linh</a></td>
+ 				<td>
+ 				<a  Title="Mã Sinh Viên">Nguy?n Th? Loan</a></td>
+ 			</tr>
+ 			<tr>
+	 			<td>
+	 			<a  Title="Mã Sinh Viên">Ðu?ng Thanh Công Minh</a></td>
+	 			<td>
+	 			<a  Title="Mã Sinh Viên">Hoàng Nh?t Minh</a></td>
+	 			<td>
+	 			<a  Title="Mã Sinh Viên">Tr?n Ðình Nam</a></td>
+	 			<td>
+	 			<a  Title="Mã Sinh Viên">T? Minh Nghia </a></td>
+	 			<td>
+	 			<a  Title="Mã Sinh Viên">Tr?nh Th? Bích Ng?c</a></td>
+	 			<td>
+	 			<a  Title="Mã Sinh Viên">Ð?ng Xuân Phong</a></td>
+	 			<td>
+	 			<a  Title="Mã Sinh Viên">T? Th? Phúc</a></td>
+	 			<td>
+	 			<a  Title="Mã Sinh Viên">Ph?m Th? Phuong</a></td>
+	 			<td>
+	 			<a  Title="Mã Sinh Viên">Nguy?n H?ng Quân</a></td>
+	 			<td>
+	 			<a  Title="Mã Sinh Viên">Nguy?n H?ng Son</a></td>
+ 			</tr>
+ 			<tr>
+	 			<td>
+	 			<a  Title="Mã Sinh Viên">Tr?n H?ng Son</a></td>
+	 			<td>
+	 			<a  Title="Mã Sinh Viên">Lê Thanh Th?o</a></td>
+	 			<td>
+	 			<a  Title="Mã Sinh Viên">Nguy?n Ð?c Duy Anh</a></td>
+	 			<td>
+	 			<a  Title="Mã Sinh Viên">Nguy?n Duy Linh</a></td>
+	 			<td>
+	 			<a  Title="Mã Sinh Viên">Bùi Chi?n Th?ng</a></td>
+	 			<td>
+	 			<a  Title="Mã Sinh Viên">Nguy?n Van Th?ng</a></td>
+	 			<td>
+	 			<a  Title="Mã Sinh Viên">Tr?n Thu Th?y</a></td>
+	 			<td>
+	 			<a  Title="Mã Sinh Viên">Vu Th? Thùy</a></td>
+	 			<td>
+	 			<a  Title="Mã Sinh Viên">Duong Minh Ti?n</a></td>
+	 			<td>
+	 			<a  Title="Mã Sinh Viên">Lê H?u Ti?n</a></td>
+ 			</tr>
+ 			<tr>
+ 				<td>
+ 				<a  Title="Mã Sinh Viên">Ph?m Anh Ti?n</a></td>
+ 				<td>
+ 				<a  Title="Mã Sinh Viên">Nguy?n Ti?n Ti?p</a></td>
+ 				<td>
+ 				<a  Title="175A071304">Nguy?n Minh Tùng</a></td>
+ 				<td>
+ 				<a  Title="175A071245">Nguy?n Ð?c Hòa</a></td>
+ 				<td>
+ 				<a  Title="Mã Sinh Viên">Nguy?n Ng?c Tú</a></td>
+ 				<td>
+ 				<a  Title="Mã Sinh Viên">Nguy?n Ðình M?nh Ð?t</a></td>
+ 				<td>
+ 				<a  Title="Mã Sinh Viên">Nguy?n Th? Trang</a></td>
+ 				<td>
+ 				<a  Title="Mã Sinh Viên">Nguy?n Th? Huy?n Trang</a></td>
+ 				<td>
+ 				<a  Title="Mã Sinh Viên">Ð? Ð?c Anh Tu?n</a></td>
+ 				<td>
+ 				<a  Title="Mã Sinh Viên">Vu Minh Tu?n</a></td>
+ 			</tr>
+ 			<tr>
+ 				<td>
+ 				<a  Title="Mã Sinh Viên">Hoàng Thanh Tùng</a></td>
+ 				<td>
+ 				<a  Title="Mã Sinh Viên">Ph?m Vi?t Tùng</a></td>
+ 				<td>
+ 				<a  Title="Mã Sinh Viên">Hoàng Nghia Anh Vu</a></td>
+ 				<td>
+ 				<a  Title="Mã Sinh Viên">Tr?n Ti?n Vu</a></td>
+ 				<td>65</td>
+ 				<td>66</td>
+ 				<td>67</td>
+ 				<td>68</td>
+ 				<td>69</td>
+ 				<td>70</td>
+ 			</tr>
+		</tbody>	
+	</table>
+	
+</body>
+</html>
